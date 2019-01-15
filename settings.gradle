@@ -1,0 +1,1 @@
+include ':trackpad', ':app', ':base', ':instantapp'

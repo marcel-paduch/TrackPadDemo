@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackPadDemo</string>
+    <string name="display_x">x:  %1$.2f</string>
+    <string name="display_y">y:  %1$.2f</string>
+</resources>
